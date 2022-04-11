@@ -8,9 +8,13 @@
 
 OSI 7계층은 네트워크에서 통신이 일어나는 과정을 7단계로 나눈 것
 
+<br>
+
 ### ✨ OSI 7계층 모델
 
 ![OSI image](OSI.png)
+
+<br>
 
 ### ✨ TCP/IP 4계층 모델과의 차이
 
@@ -75,6 +79,14 @@ OSI 7계층은 네트워크에서 통신이 일어나는 과정을 7단계로 �
 - 사용자와 가장 밀접한 계층으로 인터페이스 역할을 한다.
 - 전자 우편, 데이터베이스 관리 등의 서비스를 제공한다.
 
+<br>
+
 ---
 
-참고[https://gyoogle.dev/blog/computer-science/network/OSI 7계층.html](https://gyoogle.dev/blog/computer-science/network/OSI%207%EA%B3%84%EC%B8%B5.html)[https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124](https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124)[https://hahahoho5915.tistory.com/15](https://hahahoho5915.tistory.com/15)
+참고
+<br>
+1. [https://gyoogle.dev/blog/computer-science/network/OSI 7계층.html](https://gyoogle.dev/blog/computer-science/network/OSI%207%EA%B3%84%EC%B8%B5.html)
+<br>
+2. [https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124](https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124)
+<br>
+3. [https://hahahoho5915.tistory.com/15](https://hahahoho5915.tistory.com/15)
