@@ -85,8 +85,8 @@ OSI 7계층은 네트워크에서 통신이 일어나는 과정을 7단계로 �
 
 참고
 <br>
-1. [https://gyoogle.dev/blog/computer-science/network/OSI 7계층.html](https://gyoogle.dev/blog/computer-science/network/OSI%207%EA%B3%84%EC%B8%B5.html)
+[https://gyoogle.dev/blog/computer-science/network/OSI 7계층.html](https://gyoogle.dev/blog/computer-science/network/OSI%207%EA%B3%84%EC%B8%B5.html)
 <br>
-2. [https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124](https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124)
+[https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124](https://blog.naver.com/PostView.nhn?blogId=tmk0429&logNo=222294381124)
 <br>
-3. [https://hahahoho5915.tistory.com/15](https://hahahoho5915.tistory.com/15)
+[https://hahahoho5915.tistory.com/15](https://hahahoho5915.tistory.com/15)
