@@ -1,2 +1,3 @@
-# Study-Tech
-study for tech interview
+# 💻 CS
+### Network
+* OSI 7계층
